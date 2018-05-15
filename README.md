@@ -4,6 +4,6 @@ In this project we build a Real Time Clock (RTC) using DS1307 chip. Also, we use
 
 Here is a picture of the circuit.
 
-![alt text](https://github.com/GeorgeLatmos/LCD_AVR/blob/master/LCD_FINAL.jpg)
+![alt text](https://github.com/GeorgeLatmos/LCD_AVR/blob/master/lcd.jpg)
 
 PCB design -> ***In Progress***
