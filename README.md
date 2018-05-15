@@ -6,6 +6,4 @@ Here is a picture of the circuit.
 
 ![alt text](https://github.com/GeorgeLatmos/LCD_AVR/blob/master/LCD_FINAL.jpg)
 
-Here is a picture of the PCB design.
-
-***In Progress***
+PCB design -> ***In Progress***
