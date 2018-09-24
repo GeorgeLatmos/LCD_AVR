@@ -2,8 +2,12 @@
 
 In this project we build a Real Time Clock (RTC) using DS1307 chip. Also, we use the DHT22 sensor in order to get the temperature and the humidity. All these data are transfered to ATmega328P using the I2C protocol. Finally, there is an LCD connected to the microcontroller in order to display the results.
 
-Here is a picture of the circuit.
+# Here is a picture of the circuit.
 
 ![alt text](https://github.com/GeorgeLatmos/LCD_AVR/blob/master/lcd3.png)
 
-PCB design -> ***In Progress***
+# PCB design
+
+![alt text](https://github.com/giorgos-latmos/LCD_AVR/blob/master/PCB.png)
+
+
